@@ -1,21 +1,21 @@
-# 🚀 LeetCode Solutions
+# 🚀 Competitive Programming
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/ThanhNguyxn/leetcode-solutions?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/ThanhNguyxn/competitive-programming?style=for-the-badge)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ThanhNguyxn-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ThanhNguyxn/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ThanhNguyxn-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ThanhNguyxn)
 
-Welcome to my **ultimate collection** of LeetCode solutions! 🌟 This repository documents my journey in mastering algorithms and data structures across the programming multiverse. 🌌
+Welcome to my **competitive programming** solutions repository! 🌟 This collection documents my journey mastering algorithms across **LeetCode**, **Codeforces**, and beyond. 🌌
 
 ## 📖 About
 
-This project contains optimized solutions to various coding challenges from LeetCode. Each solution is crafted with a focus on:
-- ⚡ **Efficiency**: Optimizing time and space complexity.
-- 📖 **Readability**: Clean code with comments explaining the approach.
-- 🌍 **Polyglot**: Solutions implemented in a wide variety of languages.
+This project contains optimized solutions to coding challenges from various competitive programming platforms:
+- ⚡ **LeetCode** - Interview-style algorithm problems
+- 🏆 **Codeforces** - Competitive programming contests
+- 📖 **Clean Code** - Readable with explanatory comments
+- 🌍 **Polyglot** - Solutions in 18+ programming languages
 
 ## 🛠️ Languages & Tools
-
-I use the best tool for the job! Here are the languages currently featured in this repository:
 
 ### 🏆 Core Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,13 +45,11 @@ I use the best tool for the job! Here are the languages currently featured in th
 
 ## 📂 Repository Structure
 
-The repository is organized with a clean structure, keeping all solutions in a dedicated folder.
-
 ```
-leetcode-solutions/
+competitive-programming/
 ├── solutions/
-│   ├── 1-two-sum.cpp
-│   ├── 9-palindrome-number.cpp
+│   ├── 1-two-sum.cpp              # LeetCode
+│   ├── 2182G-short-garland.cpp    # Codeforces
 │   └── ...
 ├── LICENSE
 └── README.md
@@ -59,9 +57,8 @@ leetcode-solutions/
 
 ## 🤝 Connect
 
-Feel free to check out my LeetCode profile or connect with me!
-
 - **LeetCode**: [ThanhNguyxn](https://leetcode.com/u/ThanhNguyxn/)
+- **Codeforces**: [ThanhNguyxn](https://codeforces.com/profile/ThanhNguyxn)
 - **GitHub**: [ThanhNguyxn](https://github.com/ThanhNguyxn)
 
 ---
