@@ -1,39 +1,44 @@
-# Compiled Object files
-*.slo
-*.lo
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# C++
+*.exe
+*.out
 *.o
 *.obj
-
-# Precompiled Headers
+*.dll
+*.so
+*.dylib
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
 
-# Fortran module files
-*.mod
-*.smod
+# Java
+*.class
+*.jar
+*.war
+*.ear
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
 
 # IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
-Thumbs.db
-Desktop.ini
+*.iml
